@@ -1,5 +1,5 @@
 # eq_waves
-Equatorial wave filtering in OLR and wind data
+Study equatorial waves with maps of OLR and 200hPa velocity potential anomalies, Hovmoller diagrams and space-time filtering techniques
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
